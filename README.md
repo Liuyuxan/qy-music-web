@@ -1,14 +1,8 @@
-<!--
- * @Author: 秋意微醺时
- * @Date: 2024-04-02 19:47:12
- * @Description: 请填写说明
--->
-
-## 音乐网站
+## 音乐网站项目
 
 所有数据来自于网易云音乐平台
 
-采用 create-react-app 脚手架搭建，借助 craco 修改 webpack 配置
+采用 create-react-app 脚手架搭建，借助 craco 工具修改 webpack 配置
 
 技术栈：React, TypeScript, Styled-Components, craco
 
