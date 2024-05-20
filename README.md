@@ -18,5 +18,5 @@
 - 播放模式切换（循环播放、连续播放、随机播放）
 
 仿网易云音乐，主要目的为业务练习
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](./image.png)
+![alt text](./image-1.png)
