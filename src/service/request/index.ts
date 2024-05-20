@@ -51,7 +51,7 @@ class Request {
       this.instance
         .request<any, T>(config)
         .then((res) => {
-          // 单词响应的成功拦截处理
+          // 单次响应的成功拦截处理
           if (config.interceptors?.responseSuccessFn) {
             res = config.interceptors.responseSuccessFn(res)
           }
